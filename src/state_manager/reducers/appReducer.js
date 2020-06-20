@@ -1,5 +1,5 @@
 
-import {SET_LANGUAGE} from "./actions/actionTypes";
+import {SET_LANGUAGE} from '../actions/actionType'
 
 const initialState = {
 
