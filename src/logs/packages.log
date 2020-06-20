@@ -1,6 +1,12 @@
-node-sass : installed 
-react-redux : installed 
-react-route-dom : installed 
-react-intl : installed 
-redux-thunk : installed 
-redux-persist : installed 
+node-sass           : installed 
+react-redux         : installed 
+react-route-dom     : installed 
+react-intl          : installed 
+redux-thunk         : installed 
+redux-persist       : installed 
+@material-ui/core   : installed 
+@material-ui/icons  : installed 
+redux               : installed 
+redux-form          : installed 
+redux-logger        : installed 
+
