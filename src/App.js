@@ -4,7 +4,7 @@ import { Provider } from "react-redux";
 import { PersistGate } from "redux-persist/integration/react";
 
 function App() {
-  const [store, setStore] = useState(configureStore().store);
+  const [store, ] = useState(configureStore().store);
 
   return (
     <>
