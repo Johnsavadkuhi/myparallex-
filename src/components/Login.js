@@ -18,6 +18,7 @@ const styles = ({ breakpoints, palette }) => {
   const cover =
     "https://images.unsplash.com/photo-1444703686981-a3abbc4d4fe3?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1950&q=80";
   const backDropBG = "rgba(0,0,0,0.7)";
+ 
   return {
     root: {
       // when you use it, change to 100vh
@@ -165,7 +166,7 @@ const Login = withStyles(styles, { name: "LoginPage" })(({ classes }) => (
             </Grid>
             <Grid item xs container>
               <img
-                alt={"logo"}
+                alt={"logo"} 
                 className={classes.logo}
                 src={
                   "https://world2cover.com.au/assets/brands/w2c/logo-icon-f15d330e1176082c699f4713f50df2c725145889cbe20d43d3386e55ee458f50.png"
