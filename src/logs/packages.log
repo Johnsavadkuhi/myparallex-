@@ -9,4 +9,10 @@ redux-persist       : installed
 redux               : installed 
 redux-form          : installed 
 redux-logger        : installed 
+apollo-boost        : installed 
+@apollo/react-hooks : installed 
+graphql             : installed
+dotenv              : installed
+
+
 
